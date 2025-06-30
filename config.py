@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class Config:
-    TELEGRAM_BOT_TOKEN = "7541864253:AAHLZW34uYyK3J18Oe1HhAJlUgvhowU0xVo"
+    TELEGRAM_BOT_TOKEN = "nigger"
     FLASK_PORT = 5000
     FLASK_HOST = "0.0.0.0"
     
